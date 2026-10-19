@@ -1,6 +1,6 @@
 {
   "name": "optik-falkner-app",
-  "version": "0.2.0",
+  "version": "1.3.0",
   "private": true,
   "description": "Kunden-App Optik Falkner (Perg & Dimbach) – Prototyp",
   "scripts": {
